@@ -9,4 +9,13 @@
 ![MySQL](https://img.shields.io/badge/-MYSQL-black?style=flat-square&logo=mysql)
 
 ##  Contact 📫
- * ✉️  [Email](bulahia.youssef@gmail.com)
+ * ✉️  [Email](christopherpires@hotmail.fr)
+
+### Languages 🌐
+
+| Language      | Proficiency                                                               |
+| ------------- | ------------------------------------------------------------------------- |
+| English       | Fluent  |
+| French        | Native  |
+| Spanish       | B2  |                                                         |
+| Portuguese    | B1 |
